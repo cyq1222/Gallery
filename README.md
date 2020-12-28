@@ -1,5 +1,4 @@
-# Gallery
-简易图片画廊 使用到的依赖：
+
 
 implementation 'com.android.volley:volley:1.1.1'
 
